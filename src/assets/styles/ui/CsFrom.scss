@@ -1,0 +1,11 @@
+.cs-form {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+
+  .MuiFormControl-root {
+    width: 100%;
+    margin-bottom: 5px;
+  }
+}
+
